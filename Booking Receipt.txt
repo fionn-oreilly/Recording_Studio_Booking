@@ -1,0 +1,14 @@
+
+Booking Application
+--------------------
+Requested by: Fionn O Reilly(Email: fionn@gmail.com | Phone: 0861234567)
+Date requested --> 03/01/2020
+
+Band Members - Instruments
+--------------------
+1: Jim O Brien - Piano
+2: Tim Gormley - Drums
+3: Daniella Shaw - Vocals
+
+Includes 1 session musicians per day.
+Payment will be €1428.0 to be paid by credit card.
